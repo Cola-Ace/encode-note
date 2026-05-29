@@ -1,1 +1,4 @@
-# encode-note
+# 写在前面
+
+该教程本质上是个人在学习编码知识（包括但不限于 `x26x` 、`VapourSynth` 等）时的一些心得 / 笔记，所以该教程更像一个日记，其中的内容并不严谨。其中的内容大多基于 [VCB-Studio 公开教程](https://guides.vcb-s.com/)，所以如果本教程中的内容与 VCB-Studio 教程中的内容冲突，请以 VCB-Studio 为准。
+
