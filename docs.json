@@ -60,6 +60,7 @@
     }
   },
   "fonts": {
-    "family": "Source Sans Pro"
+    "family": "Source Sans Pro",
+    "weight": 500
   }
 }
